@@ -1,4 +1,4 @@
-﻿# BlacHammer Downloads
+# BlacHammer Downloads
 
 Official BlacHammer app downloads and backup mirrors for the BlacHammer Store.
 
