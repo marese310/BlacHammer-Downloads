@@ -7,13 +7,14 @@
       "kind": "APP",
       "platform": "ANDROID",
       "name": "BlacHammer IPTV",
-      "versionName": "0.3.0-early-access.7",
+      "versionName": "0.3.0-early-access.8",
+      "versionCode": 15,
       "fileName": "BlacHammerIPTV.apk",
-      "sha256": "ea797d3041ead776dfeb9520a4841be8e4a03b88a2f5f5075e7b310db653d3b4",
-      "sizeBytes": 15868707,
+      "sha256": "5ceb9eddd08307186ac3c4dfc13d261da638887946c1959ee6ddaaf41ef13ba5",
+      "sizeBytes": 15887831,
       "mirrors": [
-        "https://github.com/marese310/BlacHammer-Downloads/releases/download/iptv-v0.3.0-early-access.7/BlacHammerIPTV.apk",
-        "https://cdn.jsdelivr.net/gh/marese310/BlacHammer-Downloads@files-iptv-0.3.0-ea7/apps/android/BlacHammerIPTV.apk",
+        "https://github.com/marese310/BlacHammer-Downloads/releases/download/iptv-v0.3.0-early-access.8/BlacHammerIPTV.apk",
+        "https://cdn.jsdelivr.net/gh/marese310/BlacHammer-Downloads@files-iptv-0.3.0-ea8/apps/android/BlacHammerIPTV.apk",
         "https://marese310.github.io/BlacHammer-Downloads/apps/android/BlacHammerIPTV.apk"
       ]
     }
